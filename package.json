@@ -1,0 +1,18 @@
+{
+  "name": "hello-node",
+  "version": "0.0.1",
+  "description": "Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "example"
+  ],
+  "author": "Øyvind Randa <Oyvind.Randa@lettfrem.no>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
